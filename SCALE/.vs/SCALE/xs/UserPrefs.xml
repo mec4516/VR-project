@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{532291E7-D933-95DD-6703-522F447FB992}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DoorManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DoorManager.cs" Line="34" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SCALE" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="DoorManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cd6f1c1a-f175-4a3b-ab39-cc70abe1fafe" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
