@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - ScaleUp
+  - ScaleDown
+  - Scaleable
+  - Scalable
+  - Door
+  - Button
   layers:
   - Default
   - TransparentFX
